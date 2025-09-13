@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Khushi Kheti - Portfolio</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+  <!-- Navigation -->
+  <nav class="navbar navbar-dark bg-dark">
+    <div class="container">
+      <a class="navbar-brand" href="#">Khushi Kheti</a>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <section class="text-center p-5 bg-light">
+    <h1>Hello, I'm Khushi 👩‍💻</h1>
+    <p>Aspiring Systems Analyst | .NET Developer | IT Enthusiast</p>
+  </section>
+
+  <!-- About -->
+  <section class="container my-5">
+    <h2>About Me</h2>
+    <p>I recently completed my BAIST in Information Systems from NAIT. Passionate about IT, .NET development, and networking. Currently seeking opportunities to apply my skills.</p>
+  </section>
+
+  <!-- Projects -->
+  <section class="container my-5">
+    <h2>Projects</h2>
+    <div class="row">
+      <div class="col-md-4">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="card-title">IoT Health & Safety Device</h5>
+            <p class="card-text">GPS, GSM, Bluetooth, and IMU-based fall detection system.</p>
+            <a href="https://github.com/yourproject" class="btn btn-primary">View Code</a>
+          </div>
+        </div>
+      </div>
+      <!-- Add more project cards here -->
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section class="container my-5">
+    <h2>Contact</h2>
+    <p>Email: khushikheti600@gmail.com</p>
+    <p>LinkedIn: <a href="#">Your LinkedIn</a></p>
+    <p>GitHub: <a href="#">Your GitHub</a></p>
+  </section>
+</body>
+</html>
